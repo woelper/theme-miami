@@ -1,0 +1,23 @@
+{
+    "name": "theme-miami",
+    "displayName": "Miami",
+    "description": "If you type on the beach, use this theme. Especially if you used a time machine to do so in the eighties.",
+    "icon": "miami.png",
+    "version": "0.0.1",
+    "publisher": "jwoelper",
+    "engines": {
+        "vscode": "^1.13.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Miami",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Miami-color-theme.json"
+            }
+        ]
+    }
+}
