@@ -4,7 +4,7 @@
     "description": "If you type on the beach, use this theme. Especially if you used a time machine to do so in the eighties.",
     "icon": "miami.png",
     "repository": "https://github.com/woelper/theme-miami",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "publisher": "jwoelper",
     "engines": {
         "vscode": "^1.13.0"
